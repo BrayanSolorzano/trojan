@@ -1,4 +1,5 @@
 # columbus-trojan
+[![Run on Repl.it](https://repl.it/badge/github/project-columbus/trojan)](https://repl.it/github/project-columbus/trojan)
 <img src="https://cloud.githubusercontent.com/assets/7417870/12315404/6dd58120-bab5-11e5-8a10-d5fec03d38d2.gif" width="100" align="right">
 
 This is the Android app for Columbus. It lives on users' Android phones and collects data every three minutes. Data is uploaded only on Wi-Fi.
